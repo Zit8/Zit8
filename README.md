@@ -108,9 +108,9 @@
     </td>
     <td align="center" width="96">
       <a href="#stack">
-        <img src="https://www.svgrepo.com/show/332221/ant-design.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>AntDesign
+      <br>Ant Design
     </td>
      
     
