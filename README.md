@@ -67,4 +67,122 @@
 </table> 
 
 
-
+> Frontend
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JS
+    </td>
+   <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TS
+    </td>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+      <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+     <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+     <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
+  </tr> 
+    <tr>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+    <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
+      </a>
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr> 
+</table>
+ 
+>  Code quality
+<table width='100%'>
+  <tr>
+     <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br>Eslint
+    </td>
+    <td align="center" width="96">
+      <a href="#stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br>Prettier
+    </td>
+    <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="48" height="48" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+  </tr> 
+</table> 
+ 
+> Backend
+ <table width='100%'>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#stack" >
+        <img src="https://sequelize.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>Sequelize
+    </td>
+    <td align="center" width="96">
+      <a href="#stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1920px-Postgresql_elephant.svg.png" width="48" height="48" alt="Postgres" />
+      </a>
+      <br>Postgres
+    </td>
+  </tr> 
+</table>
+--- 
+<!-- [![codewars](https://www.codewars.com/users/iHOOD/badges/large)](https://www.codewars.com/users/iHOOD)    -->
+<div align='center'>
+ </div>
