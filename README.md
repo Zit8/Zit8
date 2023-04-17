@@ -7,7 +7,7 @@
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  
+  <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>  
 </div>
 
 
