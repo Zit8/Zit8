@@ -186,5 +186,3 @@
 <!-- [![codewars](https://www.codewars.com/users/iHOOD/badges/large)](https://www.codewars.com/users/iHOOD)    -->
 <div align='center'>
  </div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zit8)](https://github.com/anuraghazra/github-readme-stats)
