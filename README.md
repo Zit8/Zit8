@@ -13,7 +13,7 @@
 <a target='_blank' href='https://t.me/var_Vitya'>
 <img src="https://img.shields.io/badge/TG-white?style=for-the-badge&logo=telegram&logoColor=black" alt="Youtube Badge"/>
 </a>
-<a target='_blank' href='https://t.me/var_Vitya'>
+<a target='_blank' href='https://vk.com/kaledinceff'>
 <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=black" alt="Youtube Badge"/>
 </a>
 </div>
