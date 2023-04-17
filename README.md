@@ -62,12 +62,6 @@
       </a>
       <br>Github
     </td>
-    <td align="center" width="96"> 
-      <a href="#stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
   </tr> 
 </table> 
 
