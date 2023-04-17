@@ -4,8 +4,10 @@
 
 <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://www.codewars.com/users/Zit8/badges/micro" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  
+</div>
+<div id="codewars">
+<img src="https://www.codewars.com/users/Zit8/badges/micro" alt="codewars"/>
 </div>
 
 Hi there, I'm Viktor Kaledintsev, a Frontend Developer.
