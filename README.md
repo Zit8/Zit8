@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>  
 </div>
 <div id="codewars" align="center">
-<img src="https://www.codewars.com/users/Zit8/badges/micro" alt="codewars"/>
+<img src="https://www.codewars.com/users/Zit8/badges/small" alt="codewars"/>
 </div>
 
 Hi there, I'm Viktor Kaledintsev, a Frontend Developer.
