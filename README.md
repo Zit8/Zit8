@@ -31,7 +31,45 @@
 ---  -->
 
 
+<div> 
+<h2> :hammer_and_wrench: Languages and Tools : </h2>
 
+>  General
+ 
+<table width='100%'>
+  <tr>
+    <td align="center" width="96">
+      <a href="#stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="#debabin-stack" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+     <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <a href="#stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="48" height="48" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+  </tr> 
+</table> 
 
 
 
