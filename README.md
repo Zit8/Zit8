@@ -31,7 +31,7 @@
  
 ---  -->
 <div id="header" align="center">
-   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="900" height="300"/>
+   <img src="https://media.giphy.com/media/GiIiy4Qh4s5cR2EFdJ/giphy.gif" width="900" height="300"/>
 </div>
 
 <div> 
