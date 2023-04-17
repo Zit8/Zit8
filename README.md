@@ -112,14 +112,14 @@
       </a>
       <br>AntDesign
     </td>
-    <td align="center" width="96"> 
+  </tr> 
+    <tr>
+          <td align="center" width="96"> 
       <a href="#stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
       </a>
       <br>Css3
     </td>
-  </tr> 
-    <tr>
     <td align="center" width="96">
       <a href="#stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
@@ -131,12 +131,6 @@
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="48" height="48" alt="Webpack" />
       </a>
       <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a href="#stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr> 
 </table>
