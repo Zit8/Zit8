@@ -8,7 +8,7 @@
 </div>
                                                                           
 <div id="badges" align="center">
-  <a src="https://t.me/var_Vitya"><img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=black" alt="Youtube Badge"/></a>
+  <a target='_blank' href='https://t.me/var_Vitya'><img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=black" alt="Youtube Badge"/></a>
   <img src="https://komarev.com/ghpvc/?Zit8=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
