@@ -6,8 +6,8 @@
 <img src="https://www.codewars.com/users/Zit8/badges/small" alt="codewars"/>
 </div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=youtube&logoColor=black" alt="Youtube Badge"/>  
+  <img src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=black" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=black" alt="Youtube Badge"/>  
 </div>
 
 
