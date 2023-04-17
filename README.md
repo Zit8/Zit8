@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=black" alt="Telegram"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://www.codewars.com/users/Zit8/badges/micro" alt="Youtube Badge"/>
 </div>
