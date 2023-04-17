@@ -17,9 +17,10 @@
 <img src="https://img.shields.io/badge/VK-white?style=for-the-badge&logo=vk&logoColor=black" alt="Youtube Badge"/>
 </a>
 </div>
-<h1></h1>                                                                                                                        
+<h1></h1>
+                                                                                                                
 <div align="center">
-<img align="center" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
+<img align="center" src="https://media.giphy.com/media/GiIiy4Qh4s5cR2EFdJ/giphy.gif" />
 </div>
 
 
