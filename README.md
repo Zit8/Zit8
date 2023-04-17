@@ -30,9 +30,7 @@
  
  
 ---  -->
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/GiIiy4Qh4s5cR2EFdJ/giphy.gif"/>
-</div>
+
 
 <div> 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
